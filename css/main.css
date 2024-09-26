@@ -64,6 +64,8 @@ main {
 
 .reseaux a:hover {
     box-shadow: white 0 1px 30px;
+    background-color: white;
+    color: black;
 }
 
 .section-principale {
