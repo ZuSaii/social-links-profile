@@ -12,9 +12,8 @@ body {
     align-items: center;
 }
 
-
-
 main {
+    border-radius: 16px;
     background: #1F1F1F;
     width: 380px;
     /* margin-top: 300px; */
@@ -45,8 +44,6 @@ main {
     font-size: 14px;
     font-weight: 400;
 }
-
-
 
 .reseaux a {
     background-color: #333333;
